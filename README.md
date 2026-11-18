@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! Soy Alfonso Carrasco 👋
 
-<!--
-**alfonsocarrascosalgueiro/alfonsocarrascosalgueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Web Full Stack | React · Node.js · Python · PHP
 
-Here are some ideas to get you started:
+Soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW), titulado en junio de 2026, con formación adicional en Marketing y Publicidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me apasiona desarrollar aplicaciones que resuelvan problemas reales, automatizar procesos y diseñar soluciones completas, desde el frontend hasta la infraestructura.
+
+## 🚀 Proyectos destacados
+
+- **Generador automático de horarios:** aplicación Full Stack para optimizar la planificación académica.
+- **MailBot:** herramienta de automatización de correos electrónicos.
+- **Homelab y dashboard personal:** infraestructura con Proxmox, contenedores LXC, monitorización y autenticación.
+- **Fitness Analytics:** aplicación privada para visualizar y analizar actividades deportivas.
+
+## 🛠️ Tecnologías
+
+**Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS.
+
+**Backend:** Node.js, PHP, Python, APIs REST.
+
+**Bases de datos:** MySQL, SQLite.
+
+**Infraestructura:** Linux, Proxmox, Nginx, Git, GitHub.
+
+## 📫 Contacto
+
+- GitHub: [alfonsocarrascosalgueiro](https://github.com/alfonsocarrascosalgueiro)
+- Portfolio: próximamente
+
+**Abierto a oportunidades profesionales en desarrollo web y software.**
